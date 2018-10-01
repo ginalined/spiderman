@@ -12,7 +12,7 @@ import re
 from datetime import datetime
 from datetime import date
 
-path=r"C:\Users\elina\Desktop\gamereview.json"
+path=r""
 st=pd.read_json(path, lines=True)
 
 genrelist=[]
@@ -103,4 +103,4 @@ for idx, row in st.iterrows():
             
 st=st.drop(columns=['_id','genre','price','populartag'])
 
-st.to_csv(r'C:\Users\elina\Desktop\gamere.csv')
+st.to_csv(r'')
