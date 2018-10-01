@@ -16,10 +16,12 @@ ideas:
  
  issues: 
  1. Some foreign games might contain illegible characters
-      use simple algorithms to remove special characters
- 2. Agecheck
-      physically visit the page to get the cookie
  
+     		 use simple algorithms to remove special characters
+ 2. Agecheck
+ 
+     		 physically visit the page to get the cookie
+ 	
  
  
     
